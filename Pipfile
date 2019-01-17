@@ -12,6 +12,10 @@ numpy = "*"
 sklearn = "*"
 seaborn = "*"
 xgboost = "*"
+konlpy = "*"
+beautifulsoup4 = "*"
+codec = "*"
+codecs = "*"
 
 [requires]
 python_version = "3.6"
